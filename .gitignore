@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+cyberguard_history.sqlite3*
+domain_lists.json
+.venv/
+cyberguard_cases.json
+
+# Local incident and scan data
+cyberguard_cases.json
+cyberguard_history.sqlite3
+cyberguard_history.sqlite3-shm
+cyberguard_history.sqlite3-wal
